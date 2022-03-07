@@ -708,7 +708,7 @@
             <form class="row g-3">
                 <div class="col-md-12">
                     <label for="inputPassword4" class="form-label">Edit Cloth Types</label>
-                    <input type="number" class="form-control" id="inputPassword4" placeholder="Fency Sari">
+                    <input type="text" class="form-control" id="inputPassword4" placeholder="Fency Sari">
                 </div>
                 <div class="col-md-12">
                     <label for="inputPassword4" class="form-label">Enter Price</label>
