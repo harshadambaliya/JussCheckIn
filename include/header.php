@@ -6,18 +6,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Juss CheckIn</title>
 
-    <link rel="stylesheet" href="/html/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/html/assets/css/slick.css">
+    
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/slick.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="/html/assets/css/bootstrap4-toggle.min.css">
-    <link rel="stylesheet" href="/html/assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/bootstrap4-toggle.min.css">    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bbbootstrap/libraries@main/choices.min.css">       
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/calendar-view.css">
+    <link rel="stylesheet" href="assets/js/dhtmlxscheduler.css">
 
-    <script src="/html/assets/js/jquery-3.6.0.min.js"></script>
-    <script src="/html/assets/js/bootstrap.bundle.min.js"></script>
-    <script src="/html/assets/js/slick.min.js"></script>
-    <script src="/html/assets/js/smooth-scrollbar.js"></script>
-    <script src="/html/assets/js/bootstrap4-toggle.min.js"></script>
-    <script src="/html/assets/js/custom.js"></script>
+    <script src="assets/js/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/bbbootstrap/libraries@main/choices.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/slick.min.js"></script>
+    <script src="assets/js/smooth-scrollbar.js"></script>
+    <script src="assets/js/bootstrap4-toggle.min.js"></script>    
+    <script src="assets/js/custom.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <script src="assets/js/calendar-view.js"></script>    
+    <script src="assets/js/dhtmlxscheduler_limit.js"></script>
+    <script src="assets/js/dhtmlxscheduler_timeline.js"></script>
+    <script src="assets/js/dhtmlxscheduler_tooltip.js"></script>
+    <script src="assets/js/dhtmlxscheduler_minical.js"></script>
+    <script src="assets/js/dhtmlxscheduler_editors.js"></script>
+    
+    
 </head>
 <body class="jci-site">
     <header class="jci-site-header">

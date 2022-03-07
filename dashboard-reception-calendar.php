@@ -121,40 +121,40 @@
                                         <tbody>
                                             <tr>
                                                 <td>10 Oct 2021</td>
-                                                <td>John Smith</td>
-                                                <td>04</td>
+                                                <td>Name</td>
+                                                <td>10</td>
                                                 <td class="text-end">
                                                     <button data-bs-toggle="pill" data-bs-target="#v-pills-checkIn" type="button" role="tab" class="btn btn-dark btn-sm">Assign Room</button>
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>11 Feb 201</td>
-                                                <td>Percy Vere</td>
-                                                <td>03</td>
+                                                <td>10 Oct 2021</td>
+                                                <td>Name</td>
+                                                <td>10</td>
                                                 <td class="text-end">
                                                     <button data-bs-toggle="pill" data-bs-target="#v-pills-checkIn" type="button" role="tab" class="btn btn-dark btn-sm">Assign Room</button>
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>12 Oct 2021</td>
-                                                <td>Jack Aranda</td>
-                                                <td>02</td>
+                                                <td>10 Oct 2021</td>
+                                                <td>Name</td>
+                                                <td>10</td>
                                                 <td class="text-end">
                                                     <button data-bs-toggle="pill" data-bs-target="#v-pills-checkIn" type="button" role="tab" class="btn btn-dark btn-sm">Assign Room</button>
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>20 Apr 2021</td>
-                                                <td>Fran G. Pani</td>
-                                                <td>07</td>
+                                                <td>10 Oct 2021</td>
+                                                <td>Name</td>
+                                                <td>10</td>
                                                 <td class="text-end">
                                                     <button data-bs-toggle="pill" data-bs-target="#v-pills-checkIn" type="button" role="tab" class="btn btn-dark btn-sm">Assign Room</button>
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>11 Sep 2021</td>
-                                                <td>John Quil</td>
-                                                <td>02</td>
+                                                <td>10 Oct 2021</td>
+                                                <td>Name</td>
+                                                <td>10</td>
                                                 <td class="text-end">
                                                     <button data-bs-toggle="pill" data-bs-target="#v-pills-checkIn" type="button" role="tab" class="btn btn-dark btn-sm">Assign Room</button>
                                                 </td>
@@ -222,9 +222,9 @@
                                             <tbody>
                                                 <tr class="jci-bill-head">
                                                     <td>10 Oct 2021</td>
-                                                    <td>John Smith</td>
-                                                    <td>305</td>
-                                                    <td class="text-center"><b>$150</b></td>
+                                                    <td>Name</td>
+                                                    <td>10</td>
+                                                    <td><b>$490</b></td>
                                                 </tr>
                                                 <tr class="jci-bill-detail">
                                                     <td colspan="4">
@@ -241,126 +241,22 @@
                                                                 </thead>
                                                                 <tbody>
                                                                     <tr>
-                                                                        <td>Laundry</td>
+                                                                        <td>Service NAme</td>
                                                                         <td>$30</td>
                                                                         <td>1</td>
                                                                         <td><b>$30</b></td>
                                                                     </tr>
                                                                     <tr>
-                                                                        <td>Pickup/Drop</td>
-                                                                        <td>$100</td>
-                                                                        <td>1</td>
-                                                                        <td><b>$100</b></td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>Cleaning</td>
-                                                                        <td>$20</td>
-                                                                        <td>1</td>
-                                                                        <td><b>$20</b></td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td></td>
-                                                                        <td></td>
-                                                                        <th>Total</th>
-                                                                        <th>$150</th>
-                                                                    </tr>
-                                                                </tbody>
-                                                            </table>
-                                                            <div class="text-end mb-4">
-                                                                <button type="button" class="btn btn-success">Check Out</button>
-                                                            </div>
-                                                        </div>
-                                                    </td>
-                                                </tr>
-                                                <tr class="jci-bill-head">
-                                                    <td>11 Feb 2021</td>
-                                                    <td>Percy Vere</td>
-                                                    <td>302</td>
-                                                    <td class="text-center"><b>$430</b></td>
-                                                </tr>
-                                                <tr class="jci-bill-detail">
-                                                    <td colspan="4">
-                                                        <div class="jci-bill-detail-content">
-                                                            <h3 class="jci-bill-detail-title">Bill Details</h3>
-                                                            <table class="table">
-                                                                <thead>
-                                                                    <tr>
-                                                                    <th scope="col">Service NAme</th>
-                                                                    <th scope="col">Price</th>
-                                                                    <th scope="col">Qty</th>
-                                                                    <th scope="col">Sub Total</th>
-                                                                    </tr>
-                                                                </thead>
-                                                                <tbody>
-                                                                    <tr>
-                                                                        <td>Cheese Pizza</td>
-                                                                        <td>$90</td>
-                                                                        <td>1</td>
-                                                                        <td><b>$90</b></td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>Cheese Burger</td>
-                                                                        <td>$60</td>
-                                                                        <td>2</td>
-                                                                        <td><b>$120</b></td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>Pickup</td>
-                                                                        <td>$120</td>
-                                                                        <td>1</td>
-                                                                        <td><b>$120</b></td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td></td>
-                                                                        <td></td>
-                                                                        <th>Total</th>
-                                                                        <th>$430</th>
-                                                                    </tr>
-                                                                </tbody>
-                                                            </table>
-                                                            <div class="text-end mb-4">
-                                                                <button type="button" class="btn btn-success">Check Out</button>
-                                                            </div>
-                                                        </div>
-                                                    </td>
-                                                </tr>
-                                                <tr class="jci-bill-head">
-                                                    <td>02 March 2021</td>
-                                                    <td>Jack Aranda</td>
-                                                    <td>205</td>
-                                                    <td class="text-center"><b>$490</b></td>
-                                                </tr>
-                                                <tr class="jci-bill-detail">
-                                                    <td colspan="4">
-                                                        <div class="jci-bill-detail-content">
-                                                            <h3 class="jci-bill-detail-title">Bill Details</h3>
-                                                            <table class="table">
-                                                                <thead>
-                                                                    <tr>
-                                                                    <th scope="col">Service NAme</th>
-                                                                    <th scope="col">Price</th>
-                                                                    <th scope="col">Qty</th>
-                                                                    <th scope="col">Sub Total</th>
-                                                                    </tr>
-                                                                </thead>
-                                                                <tbody>
-                                                                    <tr>
-                                                                        <td>Wash Cloths</td>
+                                                                        <td>Service NAme</td>
                                                                         <td>$30</td>
-                                                                        <td>4</td>
-                                                                        <td><b>$120</b></td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>Laundry</td>
-                                                                        <td>$30</td>
-                                                                        <td>4</td>
-                                                                        <td><b>$120</b></td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>Drop other place</td>
-                                                                        <td>$125</td>
                                                                         <td>2</td>
-                                                                        <td><b>$250</b></td>
+                                                                        <td><b>$30</b></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Service NAme</td>
+                                                                        <td>$200</td>
+                                                                        <td>2</td>
+                                                                        <td><b>$400</b></td>
                                                                     </tr>
                                                                     <tr>
                                                                         <td></td>
@@ -377,10 +273,10 @@
                                                     </td>
                                                 </tr>
                                                 <tr class="jci-bill-head">
-                                                    <td>05 Sep 2021</td>
-                                                    <td>Fran G. Pani</td>
-                                                    <td>304</td>
-                                                    <td class="text-center"><b>$680</b></td>
+                                                    <td>10 Oct 2021</td>
+                                                    <td>Name</td>
+                                                    <td>10</td>
+                                                    <td><b>$490</b></td>
                                                 </tr>
                                                 <tr class="jci-bill-detail">
                                                     <td colspan="4">
@@ -397,19 +293,19 @@
                                                                 </thead>
                                                                 <tbody>
                                                                     <tr>
-                                                                        <td>Laundry</td>
-                                                                        <td>$180</td>
-                                                                        <td>6</td>
-                                                                        <td><b>$180</b></td>
+                                                                        <td>Service NAme</td>
+                                                                        <td>$30</td>
+                                                                        <td>1</td>
+                                                                        <td><b>$30</b></td>
                                                                     </tr>
                                                                     <tr>
-                                                                        <td>Pick Up</td>
-                                                                        <td>$50</td>
+                                                                        <td>Service NAme</td>
+                                                                        <td>$30</td>
                                                                         <td>2</td>
-                                                                        <td><b>$100</b></td>
+                                                                        <td><b>$30</b></td>
                                                                     </tr>
                                                                     <tr>
-                                                                        <td>Drop Out Side</td>
+                                                                        <td>Service NAme</td>
                                                                         <td>$200</td>
                                                                         <td>2</td>
                                                                         <td><b>$400</b></td>
@@ -418,7 +314,7 @@
                                                                         <td></td>
                                                                         <td></td>
                                                                         <th>Total</th>
-                                                                        <th>$680</th>
+                                                                        <th>$490</th>
                                                                     </tr>
                                                                 </tbody>
                                                             </table>
@@ -429,10 +325,10 @@
                                                     </td>
                                                 </tr>
                                                 <tr class="jci-bill-head">
-                                                    <td>13 Sep 2021</td>
-                                                    <td>John Quil</td>
-                                                    <td>504</td>
-                                                    <td class="text-center"><b>$10390</b></td>
+                                                    <td>10 Oct 2021</td>
+                                                    <td>Name</td>
+                                                    <td>10</td>
+                                                    <td><b>$490</b></td>
                                                 </tr>
                                                 <tr class="jci-bill-detail">
                                                     <td colspan="4">
@@ -449,28 +345,132 @@
                                                                 </thead>
                                                                 <tbody>
                                                                     <tr>
-                                                                        <td>Food Out Side</td>
-                                                                        <td>$149</td>
-                                                                        <td>3</td>
-                                                                        <td><b>$149</b></td>
+                                                                        <td>Service NAme</td>
+                                                                        <td>$30</td>
+                                                                        <td>1</td>
+                                                                        <td><b>$30</b></td>
                                                                     </tr>
                                                                     <tr>
-                                                                        <td>Drinks</td>
-                                                                        <td>$250</td>
-                                                                        <td>3</td>
-                                                                        <td><b>$750</b></td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>Drop</td>
-                                                                        <td>$120</td>
+                                                                        <td>Service NAme</td>
+                                                                        <td>$30</td>
                                                                         <td>2</td>
-                                                                        <td><b>$240</b></td>
+                                                                        <td><b>$30</b></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Service NAme</td>
+                                                                        <td>$200</td>
+                                                                        <td>2</td>
+                                                                        <td><b>$400</b></td>
                                                                     </tr>
                                                                     <tr>
                                                                         <td></td>
                                                                         <td></td>
                                                                         <th>Total</th>
-                                                                        <th>$10390</th>
+                                                                        <th>$490</th>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            <div class="text-end mb-4">
+                                                                <button type="button" class="btn btn-success">Check Out</button>
+                                                            </div>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr class="jci-bill-head">
+                                                    <td>10 Oct 2021</td>
+                                                    <td>Name</td>
+                                                    <td>10</td>
+                                                    <td><b>$490</b></td>
+                                                </tr>
+                                                <tr class="jci-bill-detail">
+                                                    <td colspan="4">
+                                                        <div class="jci-bill-detail-content">
+                                                            <h3 class="jci-bill-detail-title">Bill Details</h3>
+                                                            <table class="table">
+                                                                <thead>
+                                                                    <tr>
+                                                                    <th scope="col">Service NAme</th>
+                                                                    <th scope="col">Price</th>
+                                                                    <th scope="col">Qty</th>
+                                                                    <th scope="col">Sub Total</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td>Service NAme</td>
+                                                                        <td>$30</td>
+                                                                        <td>1</td>
+                                                                        <td><b>$30</b></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Service NAme</td>
+                                                                        <td>$30</td>
+                                                                        <td>2</td>
+                                                                        <td><b>$30</b></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Service NAme</td>
+                                                                        <td>$200</td>
+                                                                        <td>2</td>
+                                                                        <td><b>$400</b></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <th>Total</th>
+                                                                        <th>$490</th>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            <div class="text-end mb-4">
+                                                                <button type="button" class="btn btn-success">Check Out</button>
+                                                            </div>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr class="jci-bill-head">
+                                                    <td>10 Oct 2021</td>
+                                                    <td>Name</td>
+                                                    <td>10</td>
+                                                    <td><b>$490</b></td>
+                                                </tr>
+                                                <tr class="jci-bill-detail">
+                                                    <td colspan="4">
+                                                        <div class="jci-bill-detail-content">
+                                                            <h3 class="jci-bill-detail-title">Bill Details</h3>
+                                                            <table class="table">
+                                                                <thead>
+                                                                    <tr>
+                                                                    <th scope="col">Service NAme</th>
+                                                                    <th scope="col">Price</th>
+                                                                    <th scope="col">Qty</th>
+                                                                    <th scope="col">Sub Total</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td>Service NAme</td>
+                                                                        <td>$30</td>
+                                                                        <td>1</td>
+                                                                        <td><b>$30</b></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Service NAme</td>
+                                                                        <td>$30</td>
+                                                                        <td>2</td>
+                                                                        <td><b>$30</b></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Service NAme</td>
+                                                                        <td>$200</td>
+                                                                        <td>2</td>
+                                                                        <td><b>$400</b></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <th>Total</th>
+                                                                        <th>$490</th>
                                                                     </tr>
                                                                 </tbody>
                                                             </table>
@@ -513,35 +513,35 @@
                                         <tbody>
                                             <tr>
                                                 <td>John Smith</td>
-                                                <td>Aadharcard.jpg</td>                                                
+                                                <td>aadharcard.jpg</td>                                                
                                                 <td class="text-end">
                                                     <button type="button" class="btn btn-success btn-sm">Download</button>
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>Percy Vere</td>
-                                                <td>Pancard.jpg</td>                                                
+                                                <td>John Smith</td>
+                                                <td>aadharcard.jpg</td>                                                
                                                 <td class="text-end">
                                                     <button type="button" class="btn btn-success btn-sm">Download</button>
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>Jack Aranda</td>
-                                                <td>Election-Card.jpg</td>                                                
+                                                <td>John Smith</td>
+                                                <td>aadharcard.jpg</td>                                                
                                                 <td class="text-end">
                                                     <button type="button" class="btn btn-success btn-sm">Download</button>
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>Fran G. Pani</td>
-                                                <td>Driving Liences.jpg</td>                                                
+                                                <td>John Smith</td>
+                                                <td>aadharcard.jpg</td>                                                
                                                 <td class="text-end">
                                                     <button type="button" class="btn btn-success btn-sm">Download</button>
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>John Quil</td>
-                                                <td>Passport.jpg</td>                                                
+                                                <td>John Smith</td>
+                                                <td>aadharcard.jpg</td>                                                
                                                 <td class="text-end">
                                                     <button type="button" class="btn btn-success btn-sm">Download</button>
                                                 </td>
@@ -575,33 +575,33 @@
                                         <table class="table table-hover">
                                             <thead>
                                                 <tr>
-                                                    <th colspan="4">Room Type : Double with A/c</th>
+                                                    <th colspan="4">Room Type : Lorem ipsum dolor sit amet</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
                                                 <tr>
-                                                    <td>Room No. 401</td>
-                                                    <td>Room No. 302</td>
-                                                    <td>Room No. 205</td>
-                                                    <td>Room No. 123</td>
+                                                    <td>Room No. 1</td>
+                                                    <td>Room No. 2</td>
+                                                    <td>Room No. 3</td>
+                                                    <td>Room No. 4</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>Room No. 405</td>
-                                                    <td>Room No. 304</td>
-                                                    <td>Room No. 105</td>
-                                                    <td>Room No. 403</td>
+                                                    <td>Room No. 1</td>
+                                                    <td>Room No. 2</td>
+                                                    <td>Room No. 3</td>
+                                                    <td>Room No. 4</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>Room No. 102</td>
-                                                    <td>Room No. 101</td>
-                                                    <td>Room No. 601</td>
-                                                    <td>Room No. 701</td>
+                                                    <td>Room No. 1</td>
+                                                    <td>Room No. 2</td>
+                                                    <td>Room No. 3</td>
+                                                    <td>Room No. 4</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>Room No. 306</td>
-                                                    <td>Room No. 305</td>
-                                                    <td>Room No. 601</td>
-                                                    <td>Room No. 321</td>
+                                                    <td>Room No. 1</td>
+                                                    <td>Room No. 2</td>
+                                                    <td>Room No. 3</td>
+                                                    <td>Room No. 4</td>
                                                 </tr>
                                             </tbody>
                                         </table>
@@ -610,33 +610,33 @@
                                         <table class="table table-hover">
                                             <thead>
                                                 <tr>
-                                                    <th colspan="4">Room Type : Single with A/c</th>
+                                                    <th colspan="4">Room Type : Lorem ipsum dolor sit amet</th>
                                                 </tr>
                                             </thead>
                                             <tbody>
-                                            <tr>
-                                                    <td>Room No. 401</td>
-                                                    <td>Room No. 302</td>
-                                                    <td>Room No. 205</td>
-                                                    <td>Room No. 123</td>
+                                                <tr>
+                                                    <td>Room No. 1</td>
+                                                    <td>Room No. 2</td>
+                                                    <td>Room No. 3</td>
+                                                    <td>Room No. 4</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>Room No. 405</td>
-                                                    <td>Room No. 304</td>
-                                                    <td>Room No. 105</td>
-                                                    <td>Room No. 403</td>
+                                                    <td>Room No. 1</td>
+                                                    <td>Room No. 2</td>
+                                                    <td>Room No. 3</td>
+                                                    <td>Room No. 4</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>Room No. 102</td>
-                                                    <td>Room No. 101</td>
-                                                    <td>Room No. 601</td>
-                                                    <td>Room No. 701</td>
+                                                    <td>Room No. 1</td>
+                                                    <td>Room No. 2</td>
+                                                    <td>Room No. 3</td>
+                                                    <td>Room No. 4</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>Room No. 306</td>
-                                                    <td>Room No. 305</td>
-                                                    <td>Room No. 601</td>
-                                                    <td>Room No. 321</td>
+                                                    <td>Room No. 1</td>
+                                                    <td>Room No. 2</td>
+                                                    <td>Room No. 3</td>
+                                                    <td>Room No. 4</td>
                                                 </tr>
                                             </tbody>
                                         </table>
@@ -645,8 +645,22 @@
                             </div>
                         </div>
                     </div>
-                    <!-- Assign Book Content End -->
-
+                    <!-- Assign Book Content End -->                    
+                </div>
+                <div class="calendar-view">
+                <div id="scheduler_here" class="dhx_cal_container" style='width:100%; height:100%;'>
+		<div class="dhx_cal_navline">
+			<div class="dhx_cal_prev_button">&nbsp;</div>
+			<div class="dhx_cal_next_button">&nbsp;</div>
+			<div class="dhx_cal_today_button"></div>
+			<div class="dhx_cal_date"></div>
+			<select id="room_filter" onchange='showRooms(this.value)'></select>
+		</div>
+		<div class="dhx_cal_header">
+		</div>
+		<div class="dhx_cal_data">
+		</div>		
+	</div>
                 </div>
             </div>
         </div>
@@ -704,13 +718,25 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="modal-title" id="exampleModalLabel">Calendar View</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
-      <div id='calendar'></div>
-        <div style='clear:both'></div>
+      <div id="scheduler_here" class="dhx_cal_container" style='width:100%; height:100%;'>
+		<div class="dhx_cal_navline">
+			<div class="dhx_cal_prev_button">&nbsp;</div>
+			<div class="dhx_cal_next_button">&nbsp;</div>
+			<div class="dhx_cal_today_button"></div>
+			<div class="dhx_cal_date"></div>
+			<select id="room_filter" onchange='showRooms(this.value)'></select>
+		</div>
+		<div class="dhx_cal_header">
+		</div>
+		<div class="dhx_cal_data">
+		</div>		
+	</div>
+
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -722,166 +748,250 @@
 <!-- calendar view end-->
 
 
+
 <!-- calendar script -->
-<!-- <script>
+<script>
+   window.showRooms = function showRooms(type) {
+  var allRooms = scheduler.serverList("rooms");
+	var visibleRooms ;
+	if (type == 'all') {
+		visibleRooms = allRooms.slice();
+	}else{
+        visibleRooms = allRooms
+          .filter(function(room){
+             return room.type == type;
+        });
+    }
 
-	$(document).ready(function() {
-	    var date = new Date();
-		var d = date.getDate();
-		var m = date.getMonth();
-		var y = date.getFullYear();
-		
-		/*  className colors
-		
-		className: default(transparent), important(red), chill(pink), success(green), info(blue)
-		
-		*/		
-		
-		  
-		/* initialize the external events
-		-----------------------------------------------------------------*/
-	
-		$('#external-events div.external-event').each(function() {
-		
-			// create an Event Object (http://arshaw.com/fullcalendar/docs/event_data/Event_Object/)
-			// it doesn't need to have a start or end
-			var eventObject = {
-				title: $.trim($(this).text()) // use the element's text as the event title
-			};
-			
-			// store the Event Object in the DOM element so we can get to it later
-			$(this).data('eventObject', eventObject);
-			
-			// make the event draggable using jQuery UI
-			$(this).draggable({
-				zIndex: 999,
-				revert: true,      // will cause the event to go back to its
-				revertDuration: 0  //  original position after the drag
-			});
-			
-		});
-	
-	
-		/* initialize the calendar
-		-----------------------------------------------------------------*/
-		
-		var calendar =  $('#calendar').fullCalendar({
-			header: {
-				left: 'title',
-				center: 'agendaDay,agendaWeek,month',
-				right: 'prev,next today'
-			},
-			editable: true,
-			firstDay: 1, //  1(Monday) this can be changed to 0(Sunday) for the USA system
-			selectable: true,
-			defaultView: 'month',
-			
-			axisFormat: 'h:mm',
-			columnFormat: {
-                month: 'ddd',    // Mon
-                week: 'ddd d', // Mon 7
-                day: 'dddd M/d',  // Monday 9/7
-                agendaDay: 'dddd d'
-            },
-            titleFormat: {
-                month: 'MMMM yyyy', // September 2009
-                week: "MMMM yyyy", // September 2009
-                day: 'MMMM yyyy'                  // Tuesday, Sep 8, 2009
-            },
-			allDaySlot: false,
-			selectHelper: true,
-			select: function(start, end, allDay) {
-				var title = prompt('Event Title:');
-				if (title) {
-					calendar.fullCalendar('renderEvent',
-						{
-							title: title,
-							start: start,
-							end: end,
-							allDay: allDay
-						},
-						true // make the event "stick"
-					);
-				}
-				calendar.fullCalendar('unselect');
-			},
-			droppable: true, // this allows things to be dropped onto the calendar !!!
-			drop: function(date, allDay) { // this function is called when something is dropped
-			
-				// retrieve the dropped element's stored Event Object
-				var originalEventObject = $(this).data('eventObject');
-				
-				// we need to copy it, so that multiple events don't have a reference to the same object
-				var copiedEventObject = $.extend({}, originalEventObject);
-				
-				// assign it the date that was reported
-				copiedEventObject.start = date;
-				copiedEventObject.allDay = allDay;
-				
-				// render the event on the calendar
-				// the last `true` argument determines if the event "sticks" (http://arshaw.com/fullcalendar/docs/event_rendering/renderEvent/)
-				$('#calendar').fullCalendar('renderEvent', copiedEventObject, true);
-				
-				// is the "remove after drop" checkbox checked?
-				if ($('#drop-remove').is(':checked')) {
-					// if so, remove the element from the "Draggable Events" list
-					$(this).remove();
-				}
-				
-			},
-			
-			events: [
-				{
-					title: 'All Day Event',
-					start: new Date(y, m, 1)
-				},
-				{
-					id: 999,
-					title: 'Repeating Event',
-					start: new Date(y, m, d-3, 16, 0),
-					allDay: false,
-					className: 'info'
-				},
-				{
-					id: 999,
-					title: 'Repeating Event',
-					start: new Date(y, m, d+4, 16, 0),
-					allDay: false,
-					className: 'info'
-				},
-				{
-					title: 'Meeting',
-					start: new Date(y, m, d, 10, 30),
-					allDay: false,
-					className: 'important'
-				},
-				{
-					title: 'Lunch',
-					start: new Date(y, m, d, 12, 0),
-					end: new Date(y, m, d, 14, 0),
-					allDay: false,
-					className: 'important'
-				},
-				{
-					title: 'Birthday Party',
-					start: new Date(y, m, d+1, 19, 0),
-					end: new Date(y, m, d+1, 22, 30),
-					allDay: false,
-				},
-				{
-					title: 'Click for Google',
-					start: new Date(y, m, 28),
-					end: new Date(y, m, 29),
-					url: 'https://ccp.cloudaccess.net/aff.php?aff=5188',
-					className: 'success'
-				}
-			],			
-		});
-		
-		
-	});
+  scheduler.updateCollection("visibleRooms", visibleRooms);
+};
 
-</script> -->
+
+scheduler.locale.labels.section_text = 'Name';
+scheduler.locale.labels.section_room = 'Room';
+scheduler.locale.labels.section_status = 'Status';
+scheduler.locale.labels.section_is_paid = 'Paid';
+scheduler.locale.labels.section_time = 'Time';
+
+scheduler.config.details_on_create=true;
+scheduler.config.details_on_dblclick=true;
+
+//===============
+//Configuration
+//===============
+
+scheduler.serverList("roomTypes");
+scheduler.serverList("roomStatuses");
+scheduler.serverList("bookingStatuses");
+scheduler.serverList("rooms");
+
+scheduler.createTimelineView({
+	name:	"timeline",
+	x_unit: "day",
+	x_date: "%j",
+	x_step: 1,
+	x_size: 31,
+	section_autoheight: false,
+	y_unit:	scheduler.serverList("visibleRooms"),
+	y_property:	"room",
+	render:"bar",
+	round_position:true,
+  event_dy: "full",
+	dy:60,
+	second_scale:{
+		x_unit: "month", 
+		x_date: "%F, %Y" 
+	}
+});
+
+scheduler.attachEvent("onBeforeViewChange", function(old_mode,old_date,mode,date){
+	var year = date.getFullYear();
+	var month= (date.getMonth() + 1);
+	var d = new Date(year, month, 0);
+	var daysInMonth = d.getDate();
+  var timeline = scheduler.getView('timeline'); 
+  timeline.x_size = daysInMonth;
+	return true;
+});
+
+scheduler.date.timeline_start = scheduler.date.month_start;
+
+scheduler.date.add_timeline = function(date, step){
+	if(step > 0){
+		step = 1;
+	}else if(step < 0){
+		step = -1;
+	}
+	return scheduler.date.add(date, step, "month")
+};
+
+scheduler.addMarkedTimespan({
+  days: [0, 6], 
+  zones: "fullday", 
+  css: "timeline_weekend"
+});
+
+
+scheduler.config.lightbox.sections=[
+  {map_to: "text", name: "text", type: "textarea", height: 24},
+  {map_to: "room", name: "room", type: "select", options: scheduler.serverList("visibleRooms")},
+  {map_to: "status", name: "status", type: "radio", options: scheduler.serverList("bookingStatuses")},
+  {map_to: "is_paid", name: "is_paid", type: "checkbox", checked_value: true, unchecked_value: false},
+  {map_to: "time", name: "time", type: "calendar_time"}
+];
+
+
+scheduler.attachEvent('onEventCreated', function (event_id) {
+  var ev = scheduler.getEvent(event_id);
+  ev.status = 1;
+  ev.is_paid = false;
+  ev.text = 'new booking';
+});
+
+scheduler.attachEvent("onParse", function(){
+  showRooms("all");
+  
+  var roomSelect = document.querySelector("#room_filter");
+  var types = scheduler.serverList("roomTypes");
+  var typeElements = ["<option value='all'>All</option>"];
+  types.forEach(function(type){
+     typeElements.push("<option value='"+type.key+"'>" + type.label +"</option>");
+  });
+  roomSelect.innerHTML = typeElements.join("")
+});
+
+var headerHTML = "<div class='timeline_item_separator'></div>" +
+    "<div class='timeline_item_cell'>Number</div>" +
+    "<div class='timeline_item_separator'></div>" +
+    "<div class='timeline_item_cell'>Type</div>" +
+    "<div class='timeline_item_separator'></div>" +
+    "<div class='timeline_item_cell room_status'>Status</div>";
+
+scheduler.locale.labels.timeline_scale_header = headerHTML;
+
+scheduler.attachEvent("onTemplatesReady", function(){
+  
+  function findInArray(array, key) {
+    for (var i = 0; i < array.length; i++) {
+      if (key == array[i].key)
+        return array[i];
+    }
+    return null;
+  }
+
+  function getRoomType(key) {
+    return findInArray(scheduler.serverList("roomTypes"), key).label;
+  }
+
+  function getRoomStatus(key) {
+    return findInArray(scheduler.serverList("roomStatuses"), key);
+  }
+
+  function getRoom(key) {
+    return findInArray(scheduler.serverList("rooms"), key);
+  }
+
+  scheduler.templates.timeline_scale_label = function (key, label, section) {
+    var roomStatus = getRoomStatus(section.status);
+    return ["<div class='timeline_item_separator'></div>",
+            "<div class='timeline_item_cell'>" + label + "</div>",
+            "<div class='timeline_item_separator'></div>",
+            "<div class='timeline_item_cell'>" + getRoomType(section.type) + "</div>",
+            "<div class='timeline_item_separator'></div>",
+            "<div class='timeline_item_cell room_status'>",
+            "<span class='room_status_indicator room_status_indicator_"+section.status+"'></span>",
+            "<span class='status-label'>" + roomStatus.label + "</span>",
+            "</div>"].join("");
+  };
+  
+  scheduler.templates.event_class = function (start, end, event) {
+    return "event_" + (event.status || "");
+  };
+
+  function getBookingStatus(key) {
+    var bookingStatus = findInArray(scheduler.serverList("bookingStatuses"), key);
+    return !bookingStatus ? '' : bookingStatus.label;
+  }
+
+  function getPaidStatus(isPaid) {
+    return isPaid ? "paid" : "not paid";
+  }
+
+  var eventDateFormat = scheduler.date.date_to_str("%d %M %Y");
+  scheduler.templates.event_bar_text = function (start, end, event) {
+    var paidStatus = getPaidStatus(event.is_paid);
+    var startDate = eventDateFormat(event.start_date);
+    var endDate = eventDateFormat(event.end_date);
+    return [event.text + "<br />",
+            startDate + " - " + endDate,
+            "<div class='booking_status booking-option'>" + getBookingStatus(event.status) + "</div>",
+            "<div class='booking_paid booking-option'>" + paidStatus + "</div>"].join("");
+  };
+  
+  scheduler.templates.tooltip_text = function (start, end, event) {
+    var room = getRoom(event.room) || {label: ""};
+
+    var html = [];
+    html.push("Booking: <b>" + event.text + "</b>");
+    html.push("Room: <b>" + room.label + "</b>");
+    html.push("Check-in: <b>" + eventDateFormat(start) + "</b>");
+    html.push("Check-out: <b>" + eventDateFormat(end) + "</b>");
+    html.push(getBookingStatus(event.status) + ", " + getPaidStatus(event.is_paid));
+    return html.join("<br>")
+  };
+
+  scheduler.templates.lightbox_header = function (start, end, ev) {
+    var formatFunc = scheduler.date.date_to_str('%d.%m.%Y');
+    return formatFunc(start) + " - " + formatFunc(end);
+  };
+
+
+});
+
+
+scheduler.init('scheduler_here',new Date(2017,2,30),"timeline");
+scheduler.parse(JSON.stringify({
+	"data":[
+		{"room":"1","start_date":"2017-03-02","end_date":"2017-03-23","text":"A-12","id":"1","status":"1","is_paid":"1"},
+		{"room":"3","start_date":"2017-03-07","end_date":"2017-03-21","text":"A-45","id":"2","status":"2","is_paid":"1"},
+		{"room":"5","start_date":"2017-03-06","end_date":"2017-03-14","text":"A-58","id":"3","status":"3","is_paid":"0"},
+		{"room":"7","start_date":"2017-03-04","end_date":"2017-03-18","text":"A-28","id":"4","status":"4","is_paid":"0"}],
+	"collections":{
+		"roomTypes":[
+			{"value":"1","label":"1 bed"},
+			{"value":"2","label":"2 beds"},
+			{"value":"3","label":"3 beds"},
+			{"value":"4","label":"4 beds"}
+		],
+		"roomStatuses":[
+			{"value":"1","label":"Ready"},
+			{"value":"2","label":"Dirty"},
+			{"value":"3","label":"Clean up"}
+		],
+		"bookingStatuses":[
+			{"value":"1","label":"New"},
+			{"value":"2","label":"Confirmed"},
+			{"value":"3","label":"Arrived"},
+			{"value":"4","label":"Checked Out"}
+		],
+		"rooms":[
+			{"value":"1","label":"101","type":"1","status":"1"},
+			{"value":"2","label":"102","type":"1","status":"3"},
+			{"value":"3","label":"103","type":"1","status":"2"},
+			{"value":"4","label":"104","type":"1","status":"1"},
+			{"value":"5","label":"105","type":"2","status":"1"},
+			{"value":"6","label":"201","type":"2","status":"2"},
+			{"value":"7","label":"202","type":"2","status":"1"},
+			{"value":"8","label":"203","type":"3","status":"3"},
+			{"value":"9","label":"204","type":"3","status":"3"},
+			{"value":"10","label":"301","type":"4","status":"2"},
+			{"value":"11","label":"302","type":"4","status":"2"}
+		]
+	}
+}),"json");
+</script>
+
+
 <script>
 $(document).ready(function(){
   $("#appendex").click(function(){

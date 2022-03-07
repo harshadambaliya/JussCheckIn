@@ -71,13 +71,13 @@
                                     </div>
                                     <div class="col col-12 col-md-6 col-lg-6">
                                         <div class="jci-total-count-card">
-                                            <h3 class="jci-total-count-number">$1999</h3>
+                                            <h3 class="jci-total-count-number">$2718</h3>
                                             <label class="jci-total-count-label">Pay Amount</label>
                                         </div>
                                     </div>
                                     <div class="col col-12 col-md-6 col-lg-6">
                                         <div class="jci-total-count-card">
-                                            <h3 class="jci-total-count-number">$3499</h3>
+                                            <h3 class="jci-total-count-number">$2282</h3>
                                             <label class="jci-total-count-label">Pay Salary</label>
                                         </div>
                                     </div>
@@ -105,86 +105,60 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td>Employee name</td>
-                                                <td>department</td>
-                                                <td>roles</td>
-                                                <td>$899</td>
+                                                <td>John Smith</td>
+                                                <td>Kitchen</td>
+                                                <td>Head Chef</td>
+                                                <td>$499</td>
                                                 <td class="text-end">
                                                     <a href="#" class="btn btn-success btn-sm">Pay Salary</a>
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>Employee name</td>
-                                                <td>department</td>
-                                                <td>roles</td>
-                                                <td>$899</td>
+                                                <td>Percy Vere</td>
+                                                <td>Kitchen</td>
+                                                <td>Pastry Chef </td>
+                                                <td>$254</td>
                                                 <td class="text-end">
                                                     <a href="#" class="btn btn-success btn-sm">Pay Salary</a>
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>Employee name</td>
-                                                <td>department</td>
-                                                <td>roles</td>
-                                                <td>$899</td>
+                                                <td>Jack Aranda</td>
+                                                <td>Cleaning Staff</td>
+                                                <td>Room Cleaner</td>
+                                                <td>$342</td>
                                                 <td class="text-end">
                                                     <a href="#" class="btn btn-success btn-sm">Pay Salary</a>
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>Employee name</td>
-                                                <td>department</td>
-                                                <td>roles</td>
-                                                <td>$899</td>
+                                                <td>Fran G. Pani</td>
+                                                <td>Finanace</td>
+                                                <td>Admin Manager</td>
+                                                <td>$541</td>
                                                 <td class="text-end">
                                                     <a href="#" class="btn btn-success btn-sm">Pay Salary</a>
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>Employee name</td>
-                                                <td>department</td>
-                                                <td>roles</td>
-                                                <td>$899</td>
+                                                <td>John Quil</td>
+                                                <td>Hotel Staff</td>
+                                                <td>Waiter</td>
+                                                <td>$541</td>
                                                 <td class="text-end">
                                                     <a href="#" class="btn btn-success btn-sm">Pay Salary</a>
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td>Employee name</td>
-                                                <td>department</td>
-                                                <td>roles</td>
-                                                <td>$899</td>
+                                                <td>Rose Bush</td>
+                                                <td>Hotel Staff</td>
+                                                <td>Receptionist</td>
+                                                <td>$541</td>
                                                 <td class="text-end">
                                                     <a href="#" class="btn btn-success btn-sm">Pay Salary</a>
                                                 </td>
                                             </tr>
-                                            <tr>
-                                                <td>Employee name</td>
-                                                <td>department</td>
-                                                <td>roles</td>
-                                                <td>$899</td>
-                                                <td class="text-end">
-                                                    <a href="#" class="btn btn-success btn-sm">Pay Salary</a>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>Employee name</td>
-                                                <td>department</td>
-                                                <td>roles</td>
-                                                <td>$899</td>
-                                                <td class="text-end">
-                                                    <a href="#" class="btn btn-success btn-sm">Pay Salary</a>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>Employee name</td>
-                                                <td>department</td>
-                                                <td>roles</td>
-                                                <td>$899</td>
-                                                <td class="text-end">
-                                                    <a href="#" class="btn btn-success btn-sm">Pay Salary</a>
-                                                </td>
-                                            </tr>
+                                            
                                         </tbody>
                                     </table>
                                 </div>

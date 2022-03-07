@@ -21,4 +21,22 @@ $(document).ready(function() {
     //         $('#v-pills-assign-room').tab('show');
     //     }
     // });
-})
+});
+
+
+$(document).ready(function() {
+
+    var multipleCancelButton = new Choices('#choices-multiple-remove-button', {
+        removeItemButton: true,
+        maxItemCount: 5,
+        searchResultLimit: 5,
+        renderChoiceLimit: 5
+    });
+
+
+});
+
+$('.accordion-toggle').click(function() {
+    $('.hiddenRow').hide();
+    $(this).next('tr').find('.hiddenRow').show();
+});

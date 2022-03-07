@@ -52,20 +52,18 @@
                                 <a href="#" class="jci-footer-menu-link">About</a>
                             </li>
                             <li class="jci-footer-menu-item">
-                                <a href="#" class="jci-footer-menu-link">Search Doctors</a>
-                            </li>
-                            <li class="jci-footer-menu-item">
-                                <a href="#" class="jci-footer-menu-link">Search Clinics</a>
-                            </li>
-                            <li class="jci-footer-menu-item">
-                                <a href="#" class="jci-footer-menu-link">Search Pharmacy</a>
-                            </li>
-                            <li class="jci-footer-menu-item">
-                                <a href="#" class="jci-footer-menu-link">Search Hospitals</a>
-                            </li>
-                            <li class="jci-footer-menu-item">
                                 <a href="#" class="jci-footer-menu-link">Contact Us</a>
                             </li>
+                            <li class="jci-footer-menu-item">
+                                <a href="#" class="jci-footer-menu-link">FAQ</a>
+                            </li>
+                            <li class="jci-footer-menu-item">
+                                <a href="#" class="jci-footer-menu-link">Privacy & Policy</a>
+                            </li>
+                            <li class="jci-footer-menu-item">
+                                <a href="#" class="jci-footer-menu-link">Terms & Condition</a>
+                            </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -80,20 +78,18 @@
                                 <a href="#" class="jci-footer-menu-link">About</a>
                             </li>
                             <li class="jci-footer-menu-item">
-                                <a href="#" class="jci-footer-menu-link">Search Doctors</a>
-                            </li>
-                            <li class="jci-footer-menu-item">
-                                <a href="#" class="jci-footer-menu-link">Search Clinics</a>
-                            </li>
-                            <li class="jci-footer-menu-item">
-                                <a href="#" class="jci-footer-menu-link">Search Pharmacy</a>
-                            </li>
-                            <li class="jci-footer-menu-item">
-                                <a href="#" class="jci-footer-menu-link">Search Hospitals</a>
-                            </li>
-                            <li class="jci-footer-menu-item">
                                 <a href="#" class="jci-footer-menu-link">Contact Us</a>
                             </li>
+                            <li class="jci-footer-menu-item">
+                                <a href="#" class="jci-footer-menu-link">FAQ</a>
+                            </li>
+                            <li class="jci-footer-menu-item">
+                                <a href="#" class="jci-footer-menu-link">Privacy & Policy</a>
+                            </li>
+                            <li class="jci-footer-menu-item">
+                                <a href="#" class="jci-footer-menu-link">Terms & Condition</a>
+                            </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -108,20 +104,18 @@
                                 <a href="#" class="jci-footer-menu-link">About</a>
                             </li>
                             <li class="jci-footer-menu-item">
-                                <a href="#" class="jci-footer-menu-link">Search Doctors</a>
-                            </li>
-                            <li class="jci-footer-menu-item">
-                                <a href="#" class="jci-footer-menu-link">Search Clinics</a>
-                            </li>
-                            <li class="jci-footer-menu-item">
-                                <a href="#" class="jci-footer-menu-link">Search Pharmacy</a>
-                            </li>
-                            <li class="jci-footer-menu-item">
-                                <a href="#" class="jci-footer-menu-link">Search Hospitals</a>
-                            </li>
-                            <li class="jci-footer-menu-item">
                                 <a href="#" class="jci-footer-menu-link">Contact Us</a>
                             </li>
+                            <li class="jci-footer-menu-item">
+                                <a href="#" class="jci-footer-menu-link">FAQ</a>
+                            </li>
+                            <li class="jci-footer-menu-item">
+                                <a href="#" class="jci-footer-menu-link">Privacy & Policy</a>
+                            </li>
+                            <li class="jci-footer-menu-item">
+                                <a href="#" class="jci-footer-menu-link">Terms & Condition</a>
+                            </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -131,5 +125,7 @@
             <p class="jci-site-info-text text-center">Copyright © 2021, SITE-NAME.  All rights reserved.</p>
         </div>
     </footer>
+
+    
 </body>
 </html>

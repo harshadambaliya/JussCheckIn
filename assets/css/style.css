@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://pro.fontawesome.com/releases/v5.10.0/css/all.css');
 
 /***********************   Deafult Start    ****************************/
 
@@ -414,7 +415,7 @@
 }
 
 .jci-dashboard-sidebar-menu {
-    height: calc(100% - 230px);
+    height: calc(100% - 110px);
     overflow: auto;
     margin-bottom: 30px;
 }
@@ -678,6 +679,240 @@
 }
 
 
+/* Manage Property start */
+
+.card .btn {
+    padding: 8px 39px;
+    border-radius: 25px;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.jci-property-card.card {
+    -webkit-box-shadow: 0 0 15px rgb(0 0 0 / 16%);
+    -moz-box-shadow: 0 0 15px rgb(0 0 0 / 16%);
+    -o-box-shadow: 0 0 15px rgb(0 0 0 / 16%);
+    box-shadow: 0 0 15px rgb(0 0 0 / 16%);
+    border: 0px !important;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.jci-property-card-img img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-body-text {
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.57)
+}
+
+.jci-property-icon {
+    display: block;
+    width: 42px;
+    height: 42px;
+    background: #4ab862;
+    text-align: center;
+    line-height: 42px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.jci-property-sub-name {
+    font-size: 13px;
+    color: rgba(43, 18, 18, 0.8);
+    margin-bottom: 10px;
+}
+
+.card-body h6 {
+    font-size: 14px;
+    color: #4AB862;
+}
+
+
+/* Manage Property end */
+
+
+/* view coupon code & offer */
+
+.jci-property-coupon-code {
+    display: block;
+    font-size: 14px;
+    border: 2px dashed #4ab862;
+    text-align: center;
+    padding: 5px 30px;
+    border-radius: 50px;
+    margin: 15px 0px;
+}
+
+
+/* .card.jci-property-coupon .btn {
+    width: 45%;
+} */
+
+
+/* view coupon code & offer end*/
+
+
+/* list of items start */
+
+.jci-list-badage.badge {
+    background: #f6f6f6;
+    padding: 0.5rem 1rem;
+    color: #000;
+    font-weight: 500;
+}
+
+.jci-list-price {
+    font-size: 20px;
+    font-weight: 700;
+    color: #4ab862;
+}
+
+
+/* list of items end */
+
+
+/* suppliers list start */
+
+.card-body-text .icon {
+    padding-left: 2rem;
+    position: relative;
+    display: block;
+}
+
+.card-body-text .icon.add::before {
+    content: '\f3c5';
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 600;
+    color: #4AB862;
+    font-size: 16px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.card-body-text .icon.mail::before {
+    content: '\f0e0';
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 600;
+    color: #4AB862;
+    font-size: 16px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.card-body-text .icon.call::before {
+    content: '\f879';
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 600;
+    color: #4AB862;
+    font-size: 16px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+
+/* suppliers list end */
+
+
+/* Laundry Request Start */
+
+.laundry-table .hiddenRow {
+    border: 0px;
+    padding: 0px !important;
+}
+
+.laundry-table .hiddenRow .accordian-body {
+    background: #f5f5f5;
+}
+
+.laundry-table .accordian-toggle {
+    cursor: pointer;
+}
+
+
+/* Laundry Request end */
+
+
+/* Kitchen POS Start */
+
+.kitchen-pos-table .btn {
+    padding: 8px 25px;
+    font-size: 13px;
+}
+
+.jci-kitchen-order h6 {
+    color: #000;
+    font-size: 14px;
+}
+
+.js-plan {
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.js-plan-bx {
+    padding: 20px;
+}
+
+.js-plan-data-row h6 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.js-plan-data p {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.js-plan-primary {
+    background: #f3f3f3;
+}
+
+.js-plan-success {
+    background: #4ab862;
+}
+
+.js-plan-success .btn-success {
+    background: #157347;
+}
+
+.js-plan-success h6,
+.js-plan-success p.text-muted {
+    color: #fff !important;
+}
+
+.js-plan-data-items {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    border-bottom: 1px solid #d7cece;
+    margin-bottom: 10px;
+}
+
+.js-plan-data-items:last-child {
+    border-bottom: 0px;
+    margin-bottom: 0;
+}
+
+
+/* Kitchen POS end */
+
+
+/* Manage rooms start */
+
+.price {
+    color: #4ab862;
+}
+
+
+/* Manage rooms end */
+
+
 /***********************   Dashboard Page End    ****************************/
 
 
@@ -915,10 +1150,10 @@
     .btn-sm {
         padding: 5px 20px;
     }
-    .jci-approval .btn:not(:last-child) {
+    /* .jci-approval .btn:not(:last-child) {
         margin-right: 0px;
-        margin-bottom: 10px;
-    }
+        
+    } */
 }
 
 @media (max-width: 991px) {
@@ -1055,7 +1290,39 @@
     }
 }
 
+@media(min-width:768px) and (max-width:1024px) {
+    .card .btn {
+        padding: 8px 15px;
+        border-radius: 25px;
+        font-weight: 600;
+        font-size: 10px;
+        display: block;
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+    .jci-property-coupon-code {
+        display: inline-block;
+        font-size: 12px;
+        border: 2px dashed #4ab862;
+        text-align: center;
+        padding: 5px 30px;
+        border-radius: 50px;
+        margin: 6px 0px;
+    }
+    .card.jci-property-coupon .btn {
+        width: 48%;
+        margin: 0px !important;
+        display: inline-block;
+    }
+}
+
 @media (max-width: 767px) {
+    .card .btn {
+        padding: 8px 30px;
+        border-radius: 25px;
+        font-weight: 600;
+        font-size: 12px;
+    }
     .jci-header-btn .btn:first-child {
         margin-right: 5px;
     }
@@ -1193,3 +1460,98 @@
 
 
 /***********************   Responsive End    ****************************/
+
+
+/* calendar css */
+
+.timeline_item_cell {
+    width: 32%;
+    font-size: 14px;
+    text-align: center;
+}
+
+.timeline_item_separator {
+    background-color: #CECECE;
+    width: 1px;
+    height: 100% !important;
+}
+
+.dhx_matrix_scell {
+    text-align: left;
+}
+
+.timeline_item_separator,
+.timeline_item_cell {
+    vertical-align: top;
+    height: 100% !important;
+    display: inline-block;
+    line-height: 50px;
+    vertical-align: top;
+}
+
+.collection_label {
+    z-index: 2;
+}
+
+.room_status {
+    position: relative;
+}
+
+.room_status_indicator {
+    position: absolute;
+    background-color: red;
+    left: 0;
+    top: 0;
+    right: 95%;
+    bottom: 0;
+}
+
+.room_status_indicator_1 {
+    background-color: #4CAF50;
+}
+
+.room_status_indicator_2 {
+    background-color: red;
+}
+
+.room_status_indicator_3 {
+    background-color: #FFA000;
+}
+
+.event_1 {
+    background-color: #FFB74D !important;
+}
+
+.event_2 {
+    background-color: #9CCC65 !important;
+}
+
+.event_3 {
+    background-color: #40C4FF !important;
+}
+
+.event_4 {
+    background-color: #BDBDBD !important;
+}
+
+.booking_status,
+.booking_paid {
+    position: absolute;
+    right: 5px;
+}
+
+.booking_status {
+    top: 2px;
+}
+
+.booking_paid {
+    bottom: 2px;
+}
+
+.dhx_cal_event_line:hover .booking-option {
+    background: none !important;
+}
+
+.timeline_weekend {
+    background-color: #FFF9C4;
+}

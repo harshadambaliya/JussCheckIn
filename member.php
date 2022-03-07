@@ -8,7 +8,7 @@
         <div class="jci-dashboard-sidebar">
             <div class="jci-dashboard-sidebar__inner">
                 <div class="jci-dashboard-logo">
-                    <img src="assets/images/logo.png" alt="Logo" class="img-fluid">
+                    <img src="/assets/images/logo.png" alt="Logo" class="img-fluid">
                 </div>
                 <div class="jci-dashboard-sidebar-menu" data-scrollbar>
                     <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
@@ -213,6 +213,7 @@
                     <!-- Dashboard Content End -->
 
                     <!-- Property Reports Content Start -->
+                    
                     <div class="tab-pane fade" id="v-pills-property-reports" role="tabpanel" aria-labelledby="v-pills-property-reports-tab">
                         <div class="jci-dashboard-content-area" data-scrollbar>
                             <div class="jci-property-report">
@@ -238,7 +239,7 @@
                                     <div class="col col-12 col-md-12 col-lg-12">
                                         <div class="jci-property-report-card">
                                             <div class="jci-property-img">
-                                                <img src="assets/images/property-img1.png" alt="" class="img-fluid">
+                                                <img src="/assets/images/property-img1.png" alt="" class="img-fluid">
                                             </div>
                                             <div class="jci-property-card-body">
                                                 <h3 class="jci-property-name">Salama Property, Torridge Cir. Syracuse, Connecticut 3564</h3>
@@ -321,7 +322,7 @@
                                     <div class="col col-12 col-md-12 col-lg-12">
                                         <div class="jci-property-report-card">
                                             <div class="jci-property-img">
-                                                <img src="assets/images/property-img1.png" alt="" class="img-fluid">
+                                                <img src="/assets/images/property-img1.png" alt="" class="img-fluid">
                                             </div>
                                             <div class="jci-property-card-body">
                                                 <h3 class="jci-property-name">Salama Property, Torridge Cir. Syracuse, Connecticut 3564</h3>
@@ -404,7 +405,7 @@
                                     <div class="col col-12 col-md-12 col-lg-12 col-xl-6">
                                         <div class="jci-property-report-card">
                                             <div class="jci-property-img">
-                                                <img src="assets/images/property-img1.png" alt="" class="img-fluid">
+                                                <img src="/assets/images/property-img1.png" alt="" class="img-fluid">
                                             </div>
                                             <div class="jci-property-card-body">
                                                 <h3 class="jci-property-name">Room Type:- Swimming pool View</h3>
@@ -432,7 +433,7 @@
                                     <div class="col col-12 col-md-12 col-lg-12 col-xl-6">
                                         <div class="jci-property-report-card">
                                             <div class="jci-property-img">
-                                                <img src="assets/images/property-img1.png" alt="" class="img-fluid">
+                                                <img src="/assets/images/property-img1.png" alt="" class="img-fluid">
                                             </div>
                                             <div class="jci-property-card-body">
                                                 <h3 class="jci-property-name">Room Type:- With Balcony</h3>
@@ -460,7 +461,7 @@
                                     <div class="col col-12 col-md-12 col-lg-12 col-xl-6">
                                         <div class="jci-property-report-card">
                                             <div class="jci-property-img">
-                                                <img src="assets/images/property-img1.png" alt="" class="img-fluid">
+                                                <img src="/assets/images/property-img1.png" alt="" class="img-fluid">
                                             </div>
                                             <div class="jci-property-card-body">
                                                 <h3 class="jci-property-name">Room Type:- AC Room</h3>
@@ -488,7 +489,7 @@
                                     <div class="col col-12 col-md-12 col-lg-12 col-xl-6">
                                         <div class="jci-property-report-card">
                                             <div class="jci-property-img">
-                                                <img src="assets/images/property-img1.png" alt="" class="img-fluid">
+                                                <img src="/assets/images/property-img1.png" alt="" class="img-fluid">
                                             </div>
                                             <div class="jci-property-card-body">
                                                 <h3 class="jci-property-name">Room Type:- Non AC Room</h3>
@@ -727,6 +728,7 @@
                         <div class="jci-dashboard-content-area" data-scrollbar>
                             <div class="jci-approval h-100">
                                 <div class="jci-content-area">
+
                                     <div class="table-responsive">
                                         <table class="table table-hover">
                                             <thead>
